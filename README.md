@@ -25,29 +25,6 @@ and suppliers.
 
 ---
 
-## 📂 Project Structure
-
-```
-Supply_Chain_Project/
-├── Step_1_Overview/
-│   └── Project_Overview.md
-├── Step_2_Dataset/
-│   ├── customer.csv
-│   ├── orders.csv
-│   ├── order_item.csv
-│   ├── product.csv
-│   └── supplier.csv
-├── Step_3_SQL_Code/
-│   └── supply_chain_database.sql
-├── Step_4_Questions/
-│   └── Practice_Questions.md
-├── Step_5_Solutions/
-│   └── Solutions_Guide.md
-└── README.md
-```
-
----
-
 ## 🗄️ Database Schema
 
 ### Tables:
