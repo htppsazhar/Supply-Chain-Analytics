@@ -39,6 +39,7 @@ to the industry.
 
 ## 📂 Project Structure
 
+```
 Supply_Chain_Project/
 ├── data/
 │   ├── customer.csv
@@ -51,8 +52,7 @@ Supply_Chain_Project/
 ├── dashboard/
 │   └── supply_chain_dashboard.pbix
 └── README.md
-
----
+```
 
 ## 🗺️ Project Steps
 
@@ -125,18 +125,19 @@ customer ──── orders ──── order_item ──── product ──
 
 ## 📈 Key Business Insights:
 
-✅ Identified top revenue generating products
-✅ Analyzed customer spending patterns by country
-✅ Tracked monthly and yearly order trends
-✅ Evaluated supplier performance and concentration
-✅ Discovered bulk buying customers
-✅ Mapped global customer and supplier distribution
+✅ Identified top revenue generating products.
+✅ Analyzed customer spending patterns by country.
+✅ Tracked monthly and yearly order trends.
+✅ Evaluated supplier performance and concentration.
+✅ Discovered bulk buying customers.
+✅ Mapped global customer and supplier distribution.
 
 ---
 
 ## 👨‍💻 Author
 **Azhar Ullah Khan**
 - GitHub: (https://github.com/htppsazhar)
+- LinkedIn: (https://www.linkedin.com/in/azhar-ullah-khan-b8293a252/)
 
 ---
 
