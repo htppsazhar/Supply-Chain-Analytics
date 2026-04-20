@@ -107,7 +107,7 @@ customer ──── orders ──── order_item ──── product ──
 
 ## 👨‍💻 Author
 **Nikhil Kumar Mishra**
-- GitHub: [@AZHAR ULLAH KHAN](https://github.com/htppsazhar)
+- GitHub: [htppsazhar](https://github.com/htppsazhar)
 - LinkedIn: [https://www.linkedin.com/in/azhar-ullah-khan-b8293a252/]
 
 ---
