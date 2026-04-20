@@ -125,12 +125,12 @@ customer ──── orders ──── order_item ──── product ──
 
 ## 📈 Key Business Insights:
 
-✅ Identified top revenue generating products.
-✅ Analyzed customer spending patterns by country.
-✅ Tracked monthly and yearly order trends.
-✅ Evaluated supplier performance and concentration.
-✅ Discovered bulk buying customers.
-✅ Mapped global customer and supplier distribution.
+- ✅ Identified top revenue generating products
+- ✅ Analyzed customer spending patterns by country
+- ✅ Tracked monthly and yearly order trends
+- ✅ Evaluated supplier performance and concentration
+- ✅ Discovered bulk buying customers
+- ✅ Mapped global customer and supplier distribution
 
 ---
 
