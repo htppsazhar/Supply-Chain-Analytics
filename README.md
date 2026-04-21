@@ -83,11 +83,6 @@ customer ──── orders ──── order_item ──── product ──
 ---
 
 ## 👨‍💻 Author
-**Nikhil Kumar Mishra**
+**Azhar Ullah Khan**
 - GitHub: [htppsazhar](https://github.com/htppsazhar)
 - LinkedIn: [https://www.linkedin.com/in/azhar-ullah-khan-b8293a252/]
-
----
-
-## 📃 License
-This project is for educational purposes only.
