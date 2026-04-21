@@ -1,7 +1,7 @@
 ## 📸 Dashboard Preview
 
 ### Page 1 — Executive Overview
-![Executive Overview](screenshots/executive_overview.png)
+Supply_Chain_Project/Dashboard/executive_overview.png
 
 > A complete business summary showing **₹1.35M total revenue** 
 > across **830 orders** from **91 customers** and **29 suppliers**. 
@@ -11,7 +11,7 @@
 ---
 
 ### Page 2 — Demand Analysis
-![Demand Analysis](screenshots/demand_analysis.png)
+Supply_Chain_Project/Dashboard/demand_analysis.png
 
 > Deep dive into product and order performance showing **78 products** 
 > with **51K total quantity sold**. Features product demand treemap, 
@@ -21,7 +21,7 @@
 ---
 
 ### Page 3 — Supply Network
-![Supply Network](screenshots/supply_network.png)
+Supply_Chain_Project/Dashboard/supply_network.png
 
 > Complete supplier ecosystem analysis showing **29 suppliers** 
 > supplying **78 products** with average price of **₹28.62**. 
