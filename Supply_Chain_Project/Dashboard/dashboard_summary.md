@@ -1,7 +1,7 @@
 ## 📸 Dashboard Preview
 
 ### Page 1 — Executive Overview
-[Supply_Chain_Project/Dashboard/executive_overview.png](https://github.com/htppsazhar/Supply-Chain-Analytics/blob/0c574f09c4f20170c39f221cf2e20b6e69215013/Supply_Chain_Project/Dashboard/executive_overview.png)
+![Executive Overview](https://raw.githubusercontent.com/htppsazhar/Supply-Chain-Analytics/main/Supply_Chain_Project/Dashboard/executive_overview.png)
 
 > A complete business summary showing **₹1.35M total revenue** 
 > across **830 orders** from **91 customers** and **29 suppliers**. 
@@ -11,8 +11,7 @@
 ---
 
 ### Page 2 — Demand Analysis
-[Supply_Chain_Project/Dashboard/demand_analysis.png
-](https://github.com/htppsazhar/Supply-Chain-Analytics/blob/0c574f09c4f20170c39f221cf2e20b6e69215013/Supply_Chain_Project/Dashboard/demand_analysis.png)
+![Demand Analysis](https://raw.githubusercontent.com/htppsazhar/Supply-Chain-Analytics/main/Supply_Chain_Project/Dashboard/demand_analysis.png)
 > Deep dive into product and order performance showing **78 products** 
 > with **51K total quantity sold**. Features product demand treemap, 
 > bulk buyers analysis, orders by country and year-over-year 
@@ -21,8 +20,7 @@
 ---
 
 ### Page 3 — Supply Network
-[Supply_Chain_Project/Dashboard/supply_network.png](https://github.com/htppsazhar/Supply-Chain-Analytics/blob/0c574f09c4f20170c39f221cf2e20b6e69215013/Supply_Chain_Project/Dashboard/supply_network.png)
-
+![Supply Network](https://raw.githubusercontent.com/htppsazhar/Supply-Chain-Analytics/main/Supply_Chain_Project/Dashboard/supply_network.png)
 > Complete supplier ecosystem analysis showing **29 suppliers** 
 > supplying **78 products** with average price of **₹28.62**. 
 > Features supplier revenue comparison, premium products table, 
